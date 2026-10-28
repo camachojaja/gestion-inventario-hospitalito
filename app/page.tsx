@@ -270,6 +270,7 @@ export default function Home() {
         </div>
         <div className="footer-bottom"><span>© 2026 Gestión de inventario Hospitalito</span><span>Hecho para quienes cuidan.</span></div>
       </footer>
+      <p>Proyecto final de la materia Ingeniería de software - Osmar Adrián Delgado Camacho - 219626091</p>
     </>
   );
 }
